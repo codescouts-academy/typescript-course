@@ -1,0 +1,16 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "ts-node src/main.ts"
+  },
+  "author": "Damián Pumar",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^8.33.1",
+    "@typescript-eslint/parser": "^8.33.1",
+    "eslint": "^9.28.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
